@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/669344682](https://github.com/669344682)
 
-- 📝 I regularly write articles on [http://www.gtaos.com](gtaos.com)
+- 📝 I regularly write articles on [https://www.gtaos.com](gtaos.com)
 
 - 📫 How to reach me **hellotianyuan@gmail.com**
 

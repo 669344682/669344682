@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yann</h1>
 <h3 align="center">A passionate Game & AI & DA developer from China</h3>
 
-- 🔭 I’m currently working on **MTASA, FiveM and etc**
+- 🔭 I’m currently working on **MTASA, FiveM ,Meachine Learning, Data Analytics and etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/669344682](https://github.com/669344682)
 

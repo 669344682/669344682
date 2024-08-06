@@ -14,9 +14,9 @@
 <a href="https://www.youtube.com/channel/UC3ohcbL76pw22azEzKoBwWw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yann" height="30" width="40" /></a>
 </p>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=7806033" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @634750802" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=7806033&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @669344682" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=7806033&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
